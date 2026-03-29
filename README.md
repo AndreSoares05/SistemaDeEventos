@@ -1,0 +1,41 @@
+# 🎟️ Sistema de Eventos
+
+Projeto simples desenvolvido para organizar uma página de eventos utilizando **HTML** e **CSS com Flexbox**.
+
+## 📌 Objetivo
+
+Aplicar conceitos de **Flexbox** para estruturar uma página web, incluindo:
+
+- Header com menu de navegação
+- Banner centralizado
+- Layout principal com filtros e eventos
+- Cards organizados responsivamente
+- Footer centralizado
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3 (Flexbox)
+
+---
+
+## 📚 O que foi praticado
+
+- Uso de `display: flex`
+- Alinhamento com `justify-content` e `align-items`
+- Organização em colunas e linhas
+- Uso de `flex-wrap` para responsividade básica
+- Estruturação de layout moderno
+
+---
+
+## 📷 Preview do Projeto
+
+![Preview do Projeto](<img width="1365" height="624" alt="Screenshot 2026-03-29 110301" src="https://github.com/user-attachments/assets/8530d6ca-4296-45ec-bd55-b32308f40b1f" />
+)
+
+---
+
+
