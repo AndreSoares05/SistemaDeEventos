@@ -31,11 +31,10 @@ Aplicar conceitos de **Flexbox** para estruturar uma página web, incluindo:
 
 ---
 
-## 📷 Preview do Projeto
 
-![Preview do Projeto](<img width="1365" height="624" alt="Screenshot 2026-03-29 110301" src="https://github.com/user-attachments/assets/8530d6ca-4296-45ec-bd55-b32308f40b1f" />
-)
+
 
 ---
 
+##Link do site :file:///C:/Users/marco/OneDrive/Desktop/SIstemasDeEventos/index.html#
 
