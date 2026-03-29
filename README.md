@@ -30,7 +30,7 @@ Aplicar conceitos de **Flexbox** para estruturar uma página web, incluindo:
 - Estruturação de layout moderno
 
 ---
-## 🌐 Acesse o projeto
+## 📷 Preview do Projeto
 
-👉 [Clique aqui para ver o projeto](file:///C:/Users/marco/OneDrive/Desktop/SIstemasDeEventos/index.html#)
+![Preview do Projeto](./print.png)
 
