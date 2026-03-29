@@ -32,5 +32,5 @@ Aplicar conceitos de **Flexbox** para estruturar uma página web, incluindo:
 ---
 ## 📷 Preview do Projeto
 
-![Preview do Projeto](./print.png)
+![Preview do Projeto](./print.png.png)
 
