@@ -31,10 +31,10 @@ Aplicar conceitos de **Flexbox** para estruturar uma página web, incluindo:
 
 ---
 
-
+![Preview do Projeto](./print.png)
 
 
 ---
 
-##Link do site :file:///C:/Users/marco/OneDrive/Desktop/SIstemasDeEventos/index.html#
+##Link do site : file:///C:/Users/marco/OneDrive/Desktop/SIstemasDeEventos/index.html#
 
